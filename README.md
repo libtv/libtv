@@ -2,7 +2,7 @@
 
 <div class="bg-blue">
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&textJunho&fontSize=70&animation=twinkling"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Junho&fontSize=70&animation=twinkling"></p>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
