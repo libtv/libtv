@@ -1,11 +1,4 @@
 <link rel="stylesheet" href="github.css">
-<style>
-  .bg-blue {
-    background: blue
-  }
-  
-  </style>
-
 
 <div class="bg-blue">
 
