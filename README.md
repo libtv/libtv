@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./github.css">
 
-<div class="text-white bg-blue mb-2">
+<div class="bg-blue">
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jongsunPark&fontSize=70&animation=twinkling"></p>
 
