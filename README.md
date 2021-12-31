@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="github-markdown.css">
+
 <div class="text-white bg-blue mb-2">
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jongsunPark&fontSize=70&animation=twinkling"></p>
