@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="github-markdown.css">
+<link rel="stylesheet" href="./github.css">
 
 <div class="text-white bg-blue mb-2">
 
