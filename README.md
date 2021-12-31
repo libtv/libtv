@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./github.css">
+<link rel="stylesheet" href="github.css">
 
 <div class="bg-blue">
 
