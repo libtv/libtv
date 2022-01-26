@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Junho&fontSize=70&animation=twinkling"></p>
 
-<!--   -->
+<!-- career start -->
  
-:wave: Hello My name is Harim, Deep Learning Research Engineer working at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white)
+:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Sejong-0071C5?style=plastic&logo=intel&logoColor=white)
 
 ### :bulb: Current Interests
 - Computer Vision
