@@ -6,7 +6,7 @@
 
 <!-- career start -->
  
-:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Telecommunication Company  International Data Corporation -0071C5?style=plastic&logoColor=white)
+:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at !(https://img.shields.io/badge/-Telecommunication_Company_International Data Corporation -0071C5?style=plastic&logoColor=white)
 
 <br>
  
@@ -25,12 +25,7 @@
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** |
-| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. SE Lab** |
-| **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **EndorFin** |
-| **Research activities** | 2020. 1 ~ 7, 2021. 1 ~ 4 | Team leader of 6, 8th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ 2021. 5 | Contract Worker - SW Engineer (Intel) | **ManPower** |
-| **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
-| **:office:Employment** | 2021. 6 ~ | AI R&D Engineer | **Intel** |
+| **:office:Employment** | 2021. 6 ~ | Speech Technology Engineer | **Intel** |
   
 <!-- 여기까지가 내 커리어  -->
 <br>
