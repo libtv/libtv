@@ -4,6 +4,30 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Junho&fontSize=70&animation=twinkling"></p>
 
+<!--   -->
+ 
+:wave: Hello My name is Harim, Deep Learning Research Engineer working at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white)
+
+### :bulb: Current Interests
+- Computer Vision
+- A new application using an existing model or task
+- Semi/Self Supervised Learning for Classification, Detection, Segmentation
+- Generative Model
+- Various ideas (If you have any research or project you want to share with me, please contact me!)
+
+### :purple_heart: Career
+
+| **Type** | **Date** | **Contents** | **Org.** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
+| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. SE Lab** |
+| **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **EndorFin** |
+| **Research activities** | 2020. 1 ~ 7, 2021. 1 ~ 4 | Team leader of 6, 8th Open-Lab | **Korea AI Lab** |
+| **:office:Employment** | 2020. 5 ~ 2021. 5 | Contract Worker - SW Engineer (Intel) | **ManPower** |
+| **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
+| **:office:Employment** | 2021. 6 ~ | AI R&D Engineer | **Intel** |
+  
+<!-- 여기까지가 내 커리어  -->
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
