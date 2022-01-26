@@ -6,7 +6,7 @@
 
 <!-- career start -->
  
-:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Sejong-0071C5?style=plastic&logo=intel&logoColor=white)
+:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Sejong-0071C5?style=plastic&logo=sejong&logoColor=white)
 
 ### :bulb: Current Interests
 - Computer Vision
