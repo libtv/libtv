@@ -6,20 +6,23 @@
 
 <!-- career start -->
  
-:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Sejong-0071C5?style=plastic&logo=sejong&logoColor=white)
+:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![Intel](https://img.shields.io/badge/-Telecommunication Company  International Data Corporation -0071C5?style=plastic&logoColor=white)
 
+<br>
+ 
 ### :bulb: Current Interests
+- REST API
+- React, Nodejs, Vue, TypeScript 
 - Computer Vision
 - A new application using an existing model or task
-- Semi/Self Supervised Learning for Classification, Detection, Segmentation
-- Generative Model
-- Various ideas (If you have any research or project you want to share with me, please contact me!)
+- Asterisk and FreePBX 
+- SIP Stack
 
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
+| **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** |
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. SE Lab** |
 | **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **EndorFin** |
 | **Research activities** | 2020. 1 ~ 7, 2021. 1 ~ 4 | Team leader of 6, 8th Open-Lab | **Korea AI Lab** |
