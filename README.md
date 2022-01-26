@@ -18,6 +18,8 @@
 - Asterisk and FreePBX 
 - SIP Stack
 
+<br>
+ 
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
@@ -31,6 +33,7 @@
 | **:office:Employment** | 2021. 6 ~ | AI R&D Engineer | **Intel** |
   
 <!-- 여기까지가 내 커리어  -->
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -55,8 +58,6 @@
 
 <br>
 
-
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <br>
 
@@ -64,7 +65,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flibtv%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
 <br>
-
 
 </p>
 <div align="center">
