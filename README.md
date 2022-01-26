@@ -6,7 +6,7 @@
 
 <!-- career start -->
  
-:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at !(https://img.shields.io/badge/-Telecommunication_Company_International_Data_Corporation-0071C5?style=plastic&logoColor=white)
+:wave: Hello My name is Junho KIM, FULL Stack Developer and Machine Learning Engineer working at ![alt](https://img.shields.io/badge/-Telecommunication_Company_International_Data_Corporation-0071C5?style=plastic&logoColor=white)
 
 <br>
  
