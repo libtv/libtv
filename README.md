@@ -24,8 +24,8 @@
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** |
-| **:office:Employment** | 2021. 6 ~ | Speech Technology Engineer | **Intel** |
+| **Education** | 2017. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** |
+| **Employment** | 2021. 6 ~ | Speech Technology Engineer | **Intel** |
   
 <!-- 여기까지가 내 커리어  -->
 <br>
