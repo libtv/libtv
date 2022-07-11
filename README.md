@@ -23,10 +23,10 @@
  
 ### :purple_heart: Career
 
-| **Type** | **Date** | **Contents** | **Org.** | **department.** |
+| **Type** | **Date** | **Career** | **Org.** | **department.** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2017. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** | **Department of Computer Engineering** |
-| **Employment** | 2021. 2 ~ | Speech Technology Engineer | **SejongTelecom** | **Voice Technology Team** |
+| **Education** | 2017. 3 ~ 2021.2 | 4 years | **Hanbat University** | **Department of Computer Engineering** |
+| **Employment** | 2021. 2 ~ | 2 years | **SejongTelecom** | **Voice Technology Team** |
   
 <!-- 여기까지가 내 커리어 -->
 <br>
