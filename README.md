@@ -24,7 +24,7 @@
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** | **department.** |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2017. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** | **Department of Computer Engineering** |
 | **Employment** | 2021. 2 ~ | Speech Technology Engineer | **SejongTelecom** | **Voice Technology Team** |
   
