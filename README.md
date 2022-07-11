@@ -26,7 +26,7 @@
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2017. 3 ~ 2021.2 | Department of Computer Engineering | **Hanbat University** |
-| **Employment** | 2021. 6 ~ | Speech Technology Engineer | **SejongTelecom** |
+| **Employment** | 2021. 2 ~ | Speech Technology Engineer | **SejongTelecom** |
   
 <!-- 여기까지가 내 커리어 -->
 <br>
