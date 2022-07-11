@@ -74,6 +74,9 @@
 | **NPM** | https://www.npmjs.com/~junhokim |
 | **WEBSITE** | https://junhokims.tistory.com/ |
 | **CONTACT** | libtv@naver.com |
+| **ORGANIZATION-1** | https://github.com/A-big-fish-in-a-small-pond |
+| **ORGANIZATION-2** | https://github.com/SejongGroup |
 
 
 <br>
+
