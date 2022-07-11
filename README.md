@@ -72,7 +72,7 @@
 |:--------:|:--------:|
 | **GITHUB** | http://github.com/libtv |
 | **NPM** | https://www.npmjs.com/~junhokim |
-| **EMAIL** | libtv@naver.com |
+| **WEBSITE** | https://junhokims.tistory.com/ |
 | **CONTACT** | libtv@naver.com |
 
 
