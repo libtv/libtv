@@ -26,7 +26,8 @@
 | **Type** | **Date** | **Career** | **Org.** | **department.** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2017. 3 ~ 2021.2 | 4 years | **Hanbat University** | **Department of Computer Engineering** |
-| **Employment** | 2021. 2 ~ | 2 years | **SejongTelecom** | **Voice Technology Team** |
+| **Employment** | 2021. 2 ~ 2022.2 | 1 years | **SejongTelecom** | **Solution Service Team** |
+| **Employment** | 2022. 2 ~ | 1 years | **SejongTelecom** | **Voice Technology Team** |
   
 <!-- 여기까지가 내 커리어 -->
 <br>
