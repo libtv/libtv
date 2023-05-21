@@ -28,6 +28,8 @@
 | **Education** | 2017. 3 ~ 2021.2 | 4 years | **Hanbat University** | **Department of Computer Engineering** |
 | **Employment** | 2021. 2 ~ 2022.2 | 1 years | **SejongTelecom** | **Solution Service Team** |
 | **Employment** | 2022. 2 ~ 2022.9 | 8 months | **SejongTelecom** | **Voice Technology Team** |
+| **Employment** | 2023. 6 ~  | - | **CNU** | **IT Manager&Developer** |
+ 
   
 <!-- 여기까지가 내 커리어 -->
 <br>
