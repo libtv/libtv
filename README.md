@@ -86,7 +86,6 @@
 
 ### :joy: My Job Challenge
 
-[![](./cnu.jpg)](https://github.com/libtv/job-challenge)
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=My Job Challenge&fontSize=70&animation=twinkling"></p>
 <br>
 
