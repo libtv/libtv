@@ -83,3 +83,9 @@
 
 <br>
 
+### :joy: My Job Challenge
+
+[![](https://raw.githubusercontent.com/libtv/github-profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/libtv/github-profile-summary-cards)
+
+<br>
+
