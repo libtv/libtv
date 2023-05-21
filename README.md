@@ -86,6 +86,6 @@
 
 ### :joy: My Job Challenge
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=My Job Challenge&fontSize=70&animation=twinkling"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=%EC%B7%A8%EC%97%85%20%EB%8F%84%EC%A0%84%20%EB%A6%AC%EC%8A%A4%ED%8A%B8&fontSize=70&animation=twinkling"></p>
 <br>
 
