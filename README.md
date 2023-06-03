@@ -25,7 +25,6 @@
 
 | **Type** | **Date** | **Career** | **Org.** | **department.** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2017. 3 ~ 2021.2 | 4 years | **Hanbat National University** | **Department of Computer Engineering** |
 | **Employment** | 2021. 2 ~ 2022.9 | 1 year 8 months | **SejongTelecom** | **Solution Service Team&Voice Technology Team** |
  | **Employment** | 2022. 10 ~ 2023.5 | 7 months | **VAIV Company** | **IT Development Team** |
 | **Employment** | 2023. 6 ~  | - | **Chungnam National University** | **IT Manager&Developer** |
