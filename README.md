@@ -84,7 +84,7 @@
 
 ### 🧑‍🎓 Programmers
 
-[![](./programmers.PNG)](https://github.com/libtv/job-challenge) 
+[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/job-challenge) 
 
 
 <br>
