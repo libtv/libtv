@@ -25,9 +25,10 @@
 
 | **Type** | **Date** | **Career** | **Org.** | **department.** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Employment** | 2021. 2 ~ 2022.9 | 1 year 8 months | **SejongTelecom** | **Solution Service Team&Voice Technology Team** |
- | **Employment** | 2022. 10 ~ 2023.6 | 8 months | **VAIV Company** | **IT Development Team** |
-| **Employment** | 2023. 6 ~  | - | **Chungnam National University** | **IT Manager&Developer** |
+| **Employment** | 2021. 2 ~ 2022. 9 | 1 year 8 months | **SejongTelecom** | **Solution Service Team&Voice Technology Team** |
+ | **Employment** | 2022. 10 ~ 2023. 6 | 8 months | **VAIV Company** | **IT Development Team** |
+| **Employment** | 2023. 6 ~ 2024. 1  | 7 months | **Chungnam National University** | **IT Manager&Developer** |
+| **Employment** | 2025. 11 ~   | - | **Korea Institute of Ceramic Engineering & Technology** | **IT Manager&Developer** |
  
   
 <!-- 여기까지가 내 커리어 -->
